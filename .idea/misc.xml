@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/user/AndroidStudioProjects/Sunset/app/src/main/res/drawable/sun.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Sunset/app/src/main/res/drawable/sun_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Sunset/app/src/main/res/drawable/sun_reflection.xml" value="0.174" />
         <entry key="..\:/Users/user/AndroidStudioProjects/Sunset/app/src/main/res/layout/activity_main.xml" value="0.14513677811550152" />
       </map>
     </option>
